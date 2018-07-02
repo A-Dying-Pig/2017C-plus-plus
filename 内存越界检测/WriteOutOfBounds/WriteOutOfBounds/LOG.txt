@@ -1,0 +1,11 @@
+May 27 2017	09:23:49
+Write memory out of bounds DETECTED!
+file:c:\users\poo lei\documents\visual studio 2012\projects\writeoutofbounds\writeoutofbounds\main.cpp	line:8
+
+May 27 2017	09:33:05
+Write memory out of bounds DETECTED!
+file:c:\users\poo lei\documents\visual studio 2012\projects\writeoutofbounds\writeoutofbounds\main.cpp	line:16
+
+May 27 2017	09:33:05
+Write memory out of bounds NOT DETECTED!
+

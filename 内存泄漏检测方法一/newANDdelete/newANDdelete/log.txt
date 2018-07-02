@@ -1,0 +1,79 @@
+May 25 2017	15:31:06
+Memory Leak Detected!
+file:c:\users\poo lei\documents\visual studio 2012\projects\newanddelete\newanddelete\main.cpp,line:7
+Leak memory released!
+
+May 25 2017	15:31:06
+Memory Leak Not Detected!
+
+May 25 2017	15:31:06
+Memory Leak Detected!
+file:c:\users\poo lei\documents\visual studio 2012\projects\newanddelete\newanddelete\main.cpp,line:19
+Leak memory released!
+
+May 27 2017	08:30:50
+Memory Leak Detected!
+file:c:\users\poo lei\documents\visual studio 2012\projects\newanddelete\newanddelete\main.cpp,line:19
+Leak memory released!
+
+May 27 2017	08:30:50
+Memory Leak Detected!
+file:c:\users\poo lei\documents\visual studio 2012\projects\newanddelete\newanddelete\main.cpp,line:19
+Leak memory released!
+
+May 27 2017	08:30:50
+Memory Leak Not Detected!
+
+May 27 2017	09:18:27
+Memory Leak Not Detected!
+
+May 27 2017	09:18:27
+Memory Leak Not Detected!
+
+May 27 2017	09:18:27
+Memory Leak Not Detected!
+
+May 27 2017	09:23:34
+Memory Leak Not Detected!
+
+May 27 2017	09:23:34
+Memory Leak Detected!
+file:c:\users\poo lei\documents\visual studio 2012\projects\newanddelete\newanddelete\main.cpp,line:19
+Leak memory released!
+
+May 27 2017	09:23:34
+Memory Leak Not Detected!
+
+May 27 2017	10:07:19
+Memory Leak Not Detected!
+
+May 27 2017	10:07:19
+Memory Leak Not Detected!
+
+May 27 2017	09:23:34
+Memory Leak Not Detected!
+
+May 27 2017	09:23:34
+Memory Leak Not Detected!
+
+May 27 2017	09:23:34
+Memory Leak Not Detected!
+
+May 27 2017	09:23:34
+Memory Leak Not Detected!
+
+May 27 2017	09:23:34
+Memory Leak Not Detected!
+
+May 27 2017	09:23:34
+Memory Leak Not Detected!
+
+May 27 2017	11:26:18
+Memory Leak Not Detected!
+
+May 27 2017	13:54:07
+Memory Leak Not Detected!
+
+May 27 2017	13:58:46
+Memory Leak Not Detected!
+
